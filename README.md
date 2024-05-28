@@ -44,5 +44,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br>
 
 <div align="center">
-<p>© by soulkon</p>
+<p>by soulkon</p>
 </div>
